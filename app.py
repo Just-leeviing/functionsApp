@@ -6,6 +6,7 @@ import uvicorn
 
 app = FastAPI()
 
+#this is a comment
 # Sample function templates
 FUNCTION_TEMPLATES = [
     {
